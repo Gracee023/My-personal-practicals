@@ -1,0 +1,59 @@
+.carosel{
+    height: 600px;
+    width: 50px;
+}
+.space{
+    padding-left: 50px;
+}
+
+
+
+.row2pixsize{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.row2padding{
+padding-bottom: 100px;
+padding-top: 50px;
+
+}
+
+.navbarbgcolor{
+background-color: lightpink;
+}
+.logo{
+    height: 120px;
+    width: 120px;
+}
+
+.row4bgcolor{
+background-color: lightcyan;
+}
+
+.icons-size{
+    height: 50px;
+    width: 50px;
+}
+
+.fourthmargin{
+    padding-top:30px;
+}
+
+.row5pixsize{
+    height: 150px;
+    width: 150px;
+    
+}
+.small-icon{
+    font-size: small;
+}
+.row6{
+    height: 500px;
+    width: 100%;
+    background-color: red;
+    background-image: url("../PICTURES/LP3.jpg");
+    background-size: cover;
+    background-position: center;
+}
